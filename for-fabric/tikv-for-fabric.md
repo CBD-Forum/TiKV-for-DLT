@@ -32,7 +32,7 @@ TiKV集群环境建议配置PD和TiKV两个集群，同时Fabric服务也可以�
 
 ## 部署TiKV
 
-参考https://github.com/pingcap/docs-cn完成TiKV集群的部署。
+参考 https://github.com/pingcap/docs-cn 完成TiKV集群的部署。
 
 ## 部署Fabric
 获取Fabric Docker Image
