@@ -25,3 +25,11 @@ TODO
 ## TiKV for Ethereum
 
 TODO
+
+## Contributing
+
+We welcome contributions to this Project in many forms. There’s always plenty to do! 
+
+## License
+
+The TiKV-for-DLT Project uses the Apache License Version 2.0 software license.
