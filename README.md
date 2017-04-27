@@ -4,9 +4,9 @@ TiKV is a distributed Key-Value database. (https://github.com/pingcap/tikv).  Ti
 
 ## Table of Contents
 
-* TiKV for Hyperledger/Fabric
-* TiKV for Hyperledger/Sawtooth
-* TiKV for Hyperledger/Iroha
+- [TiKV for Hyperledger/Fabric](#TiKV-for-Hyperledger/Fabric)
+- [TiKV for Hyperledger/Sawtooth](#TiKV-for-Hyperledger/Sawtooth)
+- [TiKV for Hyperledger/Iroha](#TiKV-for-Hyperledger/Iroha)
 
 ## TiKV for Hyperledger/Fabric
 
