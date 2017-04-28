@@ -28,8 +28,8 @@ TODO
 
 ## 代码贡献
 
-We welcome contributions to this Project in many forms. There’s always plenty to do! 
+欢迎各种形式的开源代码贡献. 本项目提供绝大多数DLT平台的可插拔集成，还有很多集成工作没有实现! 
 
 ## 许可
 
-The TiKV-for-DLT Project uses the Apache License Version 2.0 software license.
+TiKV-for-DLT 项目使用 Apache License Version 2.0 软件许可.
