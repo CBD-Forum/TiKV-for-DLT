@@ -38,7 +38,7 @@ TiKV集群环境建议配置PD和TiKV两个集群，同时Fabric服务也可以�
 获取Fabric Docker Image
 
 ```
-docker pull wandatech/fabric-orderer: x64_64-1.0.0-tidb
+docker pull wandatech/fabric-orderer:x64_64-1.0.0-tidb
 docker pull wandatech/fabric-peer:x64_64-1.0.0-tidb
 docker pull wandatech/fabric-ccenv:x64_64-1.0.0-tidb
 ```
