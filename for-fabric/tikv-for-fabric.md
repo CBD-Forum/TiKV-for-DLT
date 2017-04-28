@@ -51,6 +51,7 @@ docker pull wandatech/fabric-peer:x64_64-1.0.0-tidb
 docker pull wandatech/fabric-ccenv:x64_64-1.0.0-tidb
 ```
 3）获取Fabric代码
+
 git clone https://github.com/hyperledger/fabric.git
 
 参考http://hyperledger-fabric.readthedocs.io/en/latest/getting_startedv2.html 完成Fabric集群的部署
