@@ -22,7 +22,7 @@ TODO
 
 TODO
 
-## TiKV for Ethereum
+## TiKV for 以太坊（Ethereum）
 
 TODO
 
