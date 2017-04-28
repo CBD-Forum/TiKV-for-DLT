@@ -36,8 +36,11 @@ TiKV集群环境建议配置PD和TiKV两个集群，同时Fabric服务也可以�
 
 ## 部署Fabric
 1）前提条件和系统配置
+
 Docker - v1.12 或更高版本
+
 Docker Compose - v1.8 或更高版本
+
 Go - 1.7 或更高版本
 
 2）获取Fabric Docker Image
@@ -49,6 +52,7 @@ docker pull wandatech/fabric-ccenv:x64_64-1.0.0-tidb
 ```
 3）获取Fabric代码
 git clone https://github.com/hyperledger/fabric.git
+
 参考http://hyperledger-fabric.readthedocs.io/en/latest/getting_startedv2.html 完成Fabric集群的部署
 
 ## 启动Fabric
