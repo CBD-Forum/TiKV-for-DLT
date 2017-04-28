@@ -1,6 +1,6 @@
 # TiKV-for-DLT
 
-TiKV is a distributed Key-Value database. (https://github.com/pingcap/tikv).  TiKV-for-DLT is to build distributed ledger based on TiKV.
+TiKV 是一个开源分布式Key-Value型数据库. 代码地址(https://github.com/pingcap/tikv).  TiKV-for-DLT 是面向区块链和分布式账本技术平台的开源可插拔分布式Key-Value型数据库.
 
 ## 支持的DLT平台目录
 
