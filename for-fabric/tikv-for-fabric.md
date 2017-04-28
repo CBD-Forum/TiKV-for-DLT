@@ -57,14 +57,14 @@ git clone https://github.com/hyperledger/fabric.git
 参考http://hyperledger-fabric.readthedocs.io/en/latest/getting_startedv2.html 完成Fabric集群的部署
 
 ## 启动Fabric
-
-在启动Fabric之前，修改Fabric Peer的docker-compose文件，添加如下Ledger配置：
-
+进入Fabric代码目录，复制examples/e2e_cli中的脚本和yaml文件到同名目录，通过预配置要素启动Fabric网络
 ```
-peer0:
-	environment:
-		- CORE_LEDGER_STATEDATABASE=tidb
-		- CORE_LEDGER_STATE_TIDBCONFIG_PDADDRESS=host1:2379
+cd $GOPATH/src/hyperledger/fabric/examples/e2e_cli
+docker-compose -f docker-compose-no-tls-tikv.yaml -d up
+```
+这是给懒人使用的，一个脚本完成区块链网络启动流程
+```
+sh network_setup-tikv.sh up <channel-name>
 ```
 
-然后按照正常流程启动Fabric peer，peer启动之后将自动采用TiKV作为账本存储。
+区块链网络启动之后区块链节点将自动采用TiKV作为账本存储。
