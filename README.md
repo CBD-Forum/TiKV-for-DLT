@@ -2,7 +2,7 @@
 
 TiKV is a distributed Key-Value database. (https://github.com/pingcap/tikv).  TiKV-for-DLT is to build distributed ledger based on TiKV.
 
-## Table of Contents
+## 支持的DLT平台目录
 
 - [TiKV for Hyperledger/Fabric](#TiKV-for-Hyperledger/Fabric)
 - [TiKV for Hyperledger/Sawtooth](#TiKV-for-Hyperledger/Sawtooth)
@@ -26,10 +26,10 @@ TODO
 
 TODO
 
-## Contributing
+## 代码贡献
 
 We welcome contributions to this Project in many forms. There’s always plenty to do! 
 
-## License
+## 许可
 
 The TiKV-for-DLT Project uses the Apache License Version 2.0 software license.
