@@ -64,7 +64,7 @@ git clone https://github.com/hyperledger/fabric.git
 peer0:
 	environment:
 		- CORE_LEDGER_STATEDATABASE=tidb
-		- CORE_LEDGER_STATE_TIDBCONFIG_PDADDRESS=192.168.1.101:8081
+		- CORE_LEDGER_STATE_TIDBCONFIG_PDADDRESS=host1:2379
 ```
 
 然后按照正常流程启动Fabric peer，peer启动之后将自动采用TiKV作为账本存储。
