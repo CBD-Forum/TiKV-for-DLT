@@ -12,7 +12,7 @@ TiKV 是一个开源分布式Key-Value型数据库. 代码地址(https://github.
 ## TiKV for Hyperledger/Fabric
 
 Hyperledger/Fabric is an implementation of blockchain technology. It is a modular architecture allowing pluggable implementations of various function.  Fabric has support leveldb/couchdb as its state database.
-In [for-fabric](#https://github.com/CBD-Forum/TiKV-for-DLT/blob/master/for-fabric/tikv-for-fabric.md), we show how to setup fabric based on TiKV.
+In [for-fabric](https://github.com/CBD-Forum/TiKV-for-DLT/blob/master/for-fabric/tikv-for-fabric.md), we show how to setup fabric based on TiKV.
 
 ## TiKV for Hyperledger/Sawtooth
 
