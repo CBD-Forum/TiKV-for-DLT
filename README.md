@@ -4,7 +4,7 @@ TiKV 是一个开源分布式Key-Value型数据库. 代码地址(https://github.
 
 ## 支持的DLT平台目录
 
-- [TiKV for Hyperledger/Fabric](#TiKV-for-Hyperledger/Fabric)
+- [TiKV for Hyperledger/Fabric](https://github.com/CBD-Forum/TiKV-for-DLT/blob/master/for-fabric/tikv-for-fabric.md)
 - [TiKV for Hyperledger/Sawtooth](#TiKV-for-Hyperledger/Sawtooth)
 - [TiKV for Hyperledger/Iroha](#TiKV-for-Hyperledger/Iroha)
 - [TiKV for Ethereum](#TiKV-for-Ethereum)
